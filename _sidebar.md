@@ -1,3 +1,3 @@
-* <i class="fa fa-home"></i> [Accueil](/README.md)
-* <i class="fa fa-cloud"></i> [Microsoft Marketplace](/Microsoft-Marketplace/README.md)
-* <i class="fa fa-flask"></i> [Autre](/Autre/README.md)
+* <span>🏠</span> [Accueil](/README.md)
+* <span>☁️</span> [Microsoft Marketplace](/Microsoft-Marketplace/README.md)
+* <span>🧪</span></i> [Autre](/Autre/README.md)
