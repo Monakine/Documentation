@@ -22,7 +22,7 @@ body {
   height: 35px !important;
   top: 10px;
   left: 10px;
-  backgroung-color: #ADD8E6;
+  backgroung-color: #ADD8E6 !important;
   z-index: 2000;
 }
 
