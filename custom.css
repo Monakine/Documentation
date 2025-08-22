@@ -43,8 +43,9 @@ body.sticky .sidebar-toggle.sidebar-toggle {
 }
 
 /* Empêche le saut de ligne de l'émoji dans la sidebar */
-.sidebar ul li {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
+/**.sidebar ul li {
+*  display: flex;
+* align-items: center;
+*  gap: 6px;
+*}
+*/
