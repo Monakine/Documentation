@@ -21,3 +21,10 @@ body {
   color: #005a9e;
   text-decoration: underline;
 }
+
+/* Empêche le saut de ligne de l'émoji */
+.sidebar ul li {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
