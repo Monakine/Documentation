@@ -8,7 +8,7 @@ body {
 .sidebar {
   height: 100vh;
   overflow-y: auto;
-  background-color: #fff;
+  background-color: lightblue;
   border-right: 1px solid #ddd;
   position: relative; /* ← pas fixed */
 }
@@ -19,6 +19,7 @@ body.sticky .sidebar-toggle {
   top: 10px;
   left: 10px;
   z-index: 2000;
+  background-color: lightblue;
 }
 
 /* Liens dans la sidebar */
