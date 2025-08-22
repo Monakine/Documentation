@@ -1,4 +1,4 @@
-# 📘 Documentation Technique – Wendy
+# 📘 Documentation Technique
 
 Bienvenue dans la documentation technique centralisée de certains projets.
 
