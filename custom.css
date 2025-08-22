@@ -22,8 +22,11 @@ body {
   height: 35px !important;
   top: 10px;
   left: 10px;
-  backgroung-color: #ADD8E6 !important;
   z-index: 2000;
+}
+ /* Force la couleur de fond */
+body.sticky .sidebar-toggle {
+  background-color: #ADD8E6 !important;
 }
 
 /* Liens dans la sidebar */
