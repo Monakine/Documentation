@@ -6,13 +6,19 @@ body {
 
 /* Couleur de la sidebar */
 .sidebar {
-  background-color: #ffffff;
+  height: 100vh;
+  overflow-y: auto;
+  background-color: #fff;
   border-right: 1px solid #ddd;
+  position: relative; /* ← pas fixed */
 }
 
 /* Position menu dans la sidebar */
 body.sticky .sidebar-toggle {
-  position: relative;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 2000;
 }
 
 /* Liens dans la sidebar */
