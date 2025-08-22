@@ -25,9 +25,10 @@ body {
   z-index: 2000;
 }
  /* Force la couleur de fond */
-body.sticky .sidebar-toggle {
+body.sticky .sidebar-toggle.sidebar-toggle {
   background-color: #ADD8E6 !important;
 }
+
 
 /* Liens dans la sidebar */
 .sidebar-nav a {
