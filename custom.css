@@ -11,7 +11,7 @@ body {
   left: 0;
   height: 100vh;
   overflow-y: auto;
-  background-color: #fff;
+  background-color: #ADD8E6;
   border-right: 1px solid #ddd;
   z-index: 1000;
 }
@@ -22,6 +22,7 @@ body {
   height: 35px !important;
   top: 10px;
   left: 10px;
+  backgroung-color: #ADD8E6;
   z-index: 2000;
 }
 
