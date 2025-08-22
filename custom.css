@@ -19,6 +19,7 @@ body {
 /* Position menu dans la sidebar */
 .sidebar-toggle {
   position: fixed;
+  height: 40px;
   top: 10px;
   left: 10px;
   z-index: 2000;
