@@ -10,6 +10,11 @@ body {
   border-right: 1px solid #ddd;
 }
 
+/* Position menu dans la sidebar */
+body.sticky .sidebar-toggle {
+  position: relative;
+}
+
 /* Liens dans la sidebar */
 .sidebar-nav a {
   color: #0078d4;
@@ -22,7 +27,7 @@ body {
   text-decoration: underline;
 }
 
-/* Empêche le saut de ligne de l'émoji */
+/* Empêche le saut de ligne de l'émoji dans la sidebar */
 .sidebar ul li {
   display: flex;
   align-items: center;
