@@ -1,0 +1,23 @@
+/* Couleur de fond générale */
+body {
+  background-color: #f5f7fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Couleur de la sidebar */
+.sidebar {
+  background-color: #ffffff;
+  border-right: 1px solid #ddd;
+}
+
+/* Liens dans la sidebar */
+.sidebar-nav a {
+  color: #0078d4;
+  font-weight: 500;
+}
+
+/* Hover sur les liens */
+.sidebar-nav a:hover {
+  color: #005a9e;
+  text-decoration: underline;
+}
